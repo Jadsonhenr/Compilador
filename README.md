@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exemplo: Compilação Separada em C
 
 Pequena demonstração de como separar **protótipos** (`.h`) e **implementações** (`.c`) usando `make` para automatizar a compilação. Ideal para estudantes que estão migrando de exemplos monolíticos para projetos modulares em C.
@@ -59,3 +60,6 @@ Remove o executável e todos os objetos.
 6. Envie o código: `git push -u origin main` (ou `master`, conforme o padrão do seu repositório).
 
 Bons estudos! 🚀
+=======
+# Compilador
+>>>>>>> 04cb992fc584ff1a076c44fa4c62af45bca14da4
